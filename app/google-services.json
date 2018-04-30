@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534277047027",
+    "firebase_url": "https://cajerobrito.firebaseio.com",
+    "project_id": "cajerobrito",
+    "storage_bucket": "cajerobrito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534277047027:android:da60965686d323b7",
+        "android_client_info": {
+          "package_name": "com.example.salinas.britocajero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534277047027-muc98ovr8fcom2os2sfauvf4sjnusvec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salinas.britocajero",
+            "certificate_hash": "95c836ebd680f69a84670ac6dda18e0296e995db"
+          }
+        },
+        {
+          "client_id": "534277047027-mpt14f0j0t9a3shet6bm6mhcbnogl10m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLInIDaghmjMqYRQd1wWcSp0jOE3_gcic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534277047027-mpt14f0j0t9a3shet6bm6mhcbnogl10m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
